@@ -24,6 +24,7 @@
         <members>FeatureToggle.ProductionTogglrActivationTestRecord</members>
         <members>FeatureToggle.ProductionTogglrActiveTestRecord</members>
         <members>FeatureToggle.ProductionTogglrDeactivationTestRecord</members>
+        <members>OrgDefinition.ProductionTestRecord</members>
         <name>CustomMetadata</name>
     </types>
     <types>
