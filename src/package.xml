@@ -21,9 +21,9 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>FeatureToggle.TogglrActivationTestRecord</members>
-        <members>FeatureToggle.TogglrActiveTestRecord</members>
-        <members>FeatureToggle.TogglrDeactivationTestRecord</members>
+        <members>FeatureToggle.ProductionTogglrActivationTestRecord</members>
+        <members>FeatureToggle.ProductionTogglrActiveTestRecord</members>
+        <members>FeatureToggle.ProductionTogglrDeactivationTestRecord</members>
         <name>CustomMetadata</name>
     </types>
     <types>
